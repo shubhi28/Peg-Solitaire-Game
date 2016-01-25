@@ -1,0 +1,7 @@
+1.Manhattan Heuristics
+https://www.cs.york.ac.uk/aig/projects/implied/docs/CPAIOR03.pdf
+2. Weighted Heuristics
+https://www.jair.org/media/2096/live-2096-3136-jair.pdf
+3. Pagoda State Pruning
+https://ianm.host.cs.st-andrews.ac.uk/docs/CAORPreprint.pdf
+
